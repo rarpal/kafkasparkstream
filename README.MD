@@ -1,8 +1,8 @@
 ## software versions
 
-kafka_2.11-2.3.0 (kafka version 2.3.0)
-pyspark 2.3.4 (spark version 2.3.4)
-spark-sql-kafka-0-10 (spark kafka driver version 0.10)
+kafka_2.11-2.3.0 (kafka version 2.3.0)  
+pyspark 2.3.4 (spark version 2.3.4)  
+spark-sql-kafka-0-10 (spark kafka driver version 0.10)  
 org.apache.spark:spark-sql-kafka-0-10_2.11:2.3.4 (marven dependency co-ordinates for above driver)
 
 ## python notebook
