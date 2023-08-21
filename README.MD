@@ -17,5 +17,5 @@ src\RealtimeStreamingV3.py
 
 This script should be run via spark-submit as follows:
 
-cd src
+cd src  
 spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.11:2.3.4 .\RealtimeStreamingV3.py
